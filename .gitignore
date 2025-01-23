@@ -1,0 +1,27 @@
+*/Configuración local/
+*/Cookies/
+*/Datos de programa/
+*/Entorno de red/
+*/Impresoras/
+*/Menú Inicio/
+*/Mis documentos/
+*/Plantillas/
+*/Reciente/
+*/SendTo/
+*/AppData/
+*/Contacts/
+*/Desktop/
+*/Documents/
+*/Downloads/
+*/Favorites/
+*/Links/
+*/Music/
+*/Pictures/
+*/Saved Games/
+*/Searches/
+*/Videos/
+*/VirtualBox VMs/
+*.DAT
+*.LOG1
+*.LOG2
+*.ini
