@@ -25,3 +25,15 @@
 *.LOG1
 *.LOG2
 *.ini
+
+# Archivos de caché y compilación de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+*.dist-info/
+
+venv/
